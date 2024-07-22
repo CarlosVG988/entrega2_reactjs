@@ -1,6 +1,6 @@
 import {pedirDatos} from "../helpers/pedirDatos"
 import { useEffect,useState } from "react"
-
+import ItemList from "./ItemList"
 const ItemListContainer = () => {
 
     const [productos, setProductos]=useState([])
@@ -17,7 +17,9 @@ const ItemListContainer = () => {
 
 
   return (
-    <div>ItemListContainer</div>
+    <div>
+        <ItemList productos={productos}/>
+    </div>
   )
 }
 
