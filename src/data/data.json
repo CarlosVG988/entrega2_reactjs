@@ -1,10 +1,122 @@
-[{"id":1,"titulo":"Cheese - Goat With Herbs","descripción":"Release Right Occipital Bone, Open Approach","categoria":"War operations involving other destruction of aircraft, military personnel, subsequent encounter","imagen":"http://dummyimage.com/246x100.png/dddddd/000000","precio":1824},
-{"id":2,"titulo":"Potato - Sweet","descripción":"Replacement of Right Orbit with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","categoria":"Displaced oblique fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with malunion","imagen":"http://dummyimage.com/191x100.png/ff4444/ffffff","precio":1851},
-{"id":3,"titulo":"Dooleys Toffee","descripción":"Supplement Left Palatine Bone with Synthetic Substitute, Percutaneous Endoscopic Approach","categoria":"Olecranon bursitis, unspecified elbow","imagen":"http://dummyimage.com/155x100.png/cc0000/ffffff","precio":7729},
-{"id":4,"titulo":"Crawfish","descripción":"Supplement Right Trunk Bursa and Ligament with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","categoria":"Adverse effect of electrolytic, caloric and water-balance agents, subsequent encounter","imagen":"http://dummyimage.com/217x100.png/cc0000/ffffff","precio":2931},
-{"id":5,"titulo":"Arrowroot","descripción":"Therapeutic Exercise Treatment of Circulatory System - Upper Back / Upper Extremity using Prosthesis","categoria":"Isolated proteinuria with specified morphological lesion","imagen":"http://dummyimage.com/175x100.png/cc0000/ffffff","precio":5368},
-{"id":6,"titulo":"Icecream Bar - Del Monte","descripción":"Introduction of Electrolytic and Water Balance Substance into Central Vein, Open Approach","categoria":"Pathological fracture in neoplastic disease, unspecified humerus, subsequent encounter for fracture with delayed healing","imagen":"http://dummyimage.com/118x100.png/5fa2dd/ffffff","precio":5390},
-{"id":7,"titulo":"Beef Striploin Aaa","descripción":"Revision of Extraluminal Device in Stomach, Via Natural or Artificial Opening Endoscopic","categoria":"Peripheral opacity of cornea, right eye","imagen":"http://dummyimage.com/132x100.png/dddddd/000000","precio":8921},
-{"id":8,"titulo":"Tart Shells - Savory, 2","descripción":"Division of Left Shoulder Muscle, Percutaneous Approach","categoria":"Fracture of other parts of pelvis","imagen":"http://dummyimage.com/216x100.png/ff4444/ffffff","precio":3308},
-{"id":9,"titulo":"Beef - Chuck, Boneless","descripción":"Dilation of Left Radial Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach","categoria":"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic","imagen":"http://dummyimage.com/215x100.png/cc0000/ffffff","precio":5609},
-{"id":10,"titulo":"Oil - Margarine","descripción":"Repair Ileum, Percutaneous Approach","categoria":"Unspecified water transport accident, subsequent encounter","imagen":"http://dummyimage.com/242x100.png/ff4444/ffffff","precio":9899}]
+[
+    {
+        "id": 1,
+        "titulo": "Cable HDMI",
+        "descripción": "Cable HDMI de alta velocidad de 2 metros.",
+        "categoria": "general_electronics",
+        "imagen": "http://dummyimage.com/246x100.png/dddddd/000000",
+        "precio": 1824
+    },
+    {
+        "id": 2,
+        "titulo": "Mouse Inalámbrico",
+        "descripción": "Mouse inalámbrico con conexión Bluetooth.",
+        "categoria": "general_electronics",
+        "imagen": "http://dummyimage.com/191x100.png/ff4444/ffffff",
+        "precio": 1851
+    },
+    {
+        "id": 3,
+        "titulo": "Teclado Mecánico",
+        "descripción": "Teclado mecánico con retroiluminación RGB.",
+        "categoria": "general_electronics",
+        "imagen": "http://dummyimage.com/155x100.png/cc0000/ffffff",
+        "precio": 7729
+    },
+    {
+        "id": 4,
+        "titulo": "Monitor 24 pulgadas",
+        "descripción": "Monitor Full HD de 24 pulgadas.",
+        "categoria": "general_electronics",
+        "imagen": "http://dummyimage.com/217x100.png/cc0000/ffffff",
+        "precio": 2931
+    },
+    {
+        "id": 5,
+        "titulo": "Auriculares Bluetooth",
+        "descripción": "Auriculares Bluetooth con cancelación de ruido.",
+        "categoria": "general_electronics",
+        "imagen": "http://dummyimage.com/175x100.png/cc0000/ffffff",
+        "precio": 5368
+    },
+    {
+        "id": 6,
+        "titulo": "Conector USB-C",
+        "descripción": "Adaptador de USB-C a USB-A.",
+        "categoria": "conectores",
+        "imagen": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+        "precio": 5390
+    },
+    {
+        "id": 7,
+        "titulo": "Cable Ethernet",
+        "descripción": "Cable Ethernet de categoría 6 de 5 metros.",
+        "categoria": "conectores",
+        "imagen": "http://dummyimage.com/132x100.png/dddddd/000000",
+        "precio": 8921
+    },
+    {
+        "id": 8,
+        "titulo": "Adaptador HDMI a VGA",
+        "descripción": "Adaptador para convertir señales HDMI a VGA.",
+        "categoria": "conectores",
+        "imagen": "http://dummyimage.com/216x100.png/ff4444/ffffff",
+        "precio": 3308
+    },
+    {
+        "id": 9,
+        "titulo": "Splitter HDMI",
+        "descripción": "Splitter HDMI de 1 entrada a 2 salidas.",
+        "categoria": "conectores",
+        "imagen": "http://dummyimage.com/215x100.png/cc0000/ffffff",
+        "precio": 5609
+    },
+    {
+        "id": 10,
+        "titulo": "Extensor USB",
+        "descripción": "Extensor de señal USB de 3 metros.",
+        "categoria": "conectores",
+        "imagen": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+        "precio": 9899
+    },
+    {
+        "id": 11,
+        "titulo": "Cámara IP",
+        "descripción": "Cámara de seguridad IP con visión nocturna.",
+        "categoria": "importados",
+        "imagen": "http://dummyimage.com/150x100.png/cc0000/ffffff",
+        "precio": 10500
+    },
+    {
+        "id": 12,
+        "titulo": "Tablet 10 pulgadas",
+        "descripción": "Tablet con pantalla de 10 pulgadas y 64GB de almacenamiento.",
+        "categoria": "importados",
+        "imagen": "http://dummyimage.com/160x100.png/ff4444/ffffff",
+        "precio": 25000
+    },
+    {
+        "id": 13,
+        "titulo": "Smartwatch",
+        "descripción": "Reloj inteligente con monitor de ritmo cardíaco.",
+        "categoria": "importados",
+        "imagen": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
+        "precio": 15000
+    },
+    {
+        "id": 14,
+        "titulo": "Drone",
+        "descripción": "Drone con cámara 4K y GPS.",
+        "categoria": "importados",
+        "imagen": "http://dummyimage.com/180x100.png/dddddd/000000",
+        "precio": 50000
+    },
+    {
+        "id": 15,
+        "titulo": "Smart TV 55 pulgadas",
+        "descripción": "Televisor inteligente 4K de 55 pulgadas.",
+        "categoria": "importados",
+        "imagen": "http://dummyimage.com/190x100.png/cc0000/ffffff",
+        "precio": 75000
+    }
+]
