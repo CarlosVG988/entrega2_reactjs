@@ -5,7 +5,8 @@
         "descripción": "Cable HDMI de alta velocidad de 2 metros.",
         "categoria": "general_electronics",
         "imagen": "http://dummyimage.com/246x100.png/dddddd/000000",
-        "precio": 1824
+        "precio": 1824,
+        "stock":10
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "descripción": "Mouse inalámbrico con conexión Bluetooth.",
         "categoria": "general_electronics",
         "imagen": "http://dummyimage.com/191x100.png/ff4444/ffffff",
-        "precio": 1851
+        "precio": 1851,
+        "stock":10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "descripción": "Teclado mecánico con retroiluminación RGB.",
         "categoria": "general_electronics",
         "imagen": "http://dummyimage.com/155x100.png/cc0000/ffffff",
-        "precio": 7729
+        "precio": 7729,
+        "stock":10
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "descripción": "Monitor Full HD de 24 pulgadas.",
         "categoria": "general_electronics",
         "imagen": "http://dummyimage.com/217x100.png/cc0000/ffffff",
-        "precio": 2931
+        "precio": 2931,
+        "stock":10
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "descripción": "Auriculares Bluetooth con cancelación de ruido.",
         "categoria": "general_electronics",
         "imagen": "http://dummyimage.com/175x100.png/cc0000/ffffff",
-        "precio": 5368
+        "precio": 5368,
+        "stock":10
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "descripción": "Adaptador de USB-C a USB-A.",
         "categoria": "conectores",
         "imagen": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
-        "precio": 5390
+        "precio": 5390,
+        "stock":10
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "descripción": "Cable Ethernet de categoría 6 de 5 metros.",
         "categoria": "conectores",
         "imagen": "http://dummyimage.com/132x100.png/dddddd/000000",
-        "precio": 8921
+        "precio": 8921,
+        "stock":10
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "descripción": "Adaptador para convertir señales HDMI a VGA.",
         "categoria": "conectores",
         "imagen": "http://dummyimage.com/216x100.png/ff4444/ffffff",
-        "precio": 3308
+        "precio": 3308,
+        "stock":10
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "descripción": "Splitter HDMI de 1 entrada a 2 salidas.",
         "categoria": "conectores",
         "imagen": "http://dummyimage.com/215x100.png/cc0000/ffffff",
-        "precio": 5609
+        "precio": 5609,
+        "stock":10
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "descripción": "Extensor de señal USB de 3 metros.",
         "categoria": "conectores",
         "imagen": "http://dummyimage.com/242x100.png/ff4444/ffffff",
-        "precio": 9899
+        "precio": 9899,
+        "stock":10
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "descripción": "Cámara de seguridad IP con visión nocturna.",
         "categoria": "importados",
         "imagen": "http://dummyimage.com/150x100.png/cc0000/ffffff",
-        "precio": 10500
+        "precio": 10500,
+        "stock":10
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "descripción": "Tablet con pantalla de 10 pulgadas y 64GB de almacenamiento.",
         "categoria": "importados",
         "imagen": "http://dummyimage.com/160x100.png/ff4444/ffffff",
-        "precio": 25000
+        "precio": 25000,
+        "stock":10
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "descripción": "Reloj inteligente con monitor de ritmo cardíaco.",
         "categoria": "importados",
         "imagen": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
-        "precio": 15000
+        "precio": 15000,
+        "stock":10
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "descripción": "Drone con cámara 4K y GPS.",
         "categoria": "importados",
         "imagen": "http://dummyimage.com/180x100.png/dddddd/000000",
-        "precio": 50000
+        "precio": 50000,
+        "stock":10
     },
     {
         "id": 15,
@@ -117,6 +131,7 @@
         "descripción": "Televisor inteligente 4K de 55 pulgadas.",
         "categoria": "importados",
         "imagen": "http://dummyimage.com/190x100.png/cc0000/ffffff",
-        "precio": 75000
+        "precio": 75000,
+        "stock":10
     }
 ]
