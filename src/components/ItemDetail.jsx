@@ -16,10 +16,11 @@ const ItemDetail = ({item}) => {
       cantidad < item.stock && setCantidad(cantidad+1)
 
   }
+  const handleAgregar = ()=>{
+    console.log({...item,cantidad});
 
 
-
-
+   }
 
 
   return (
@@ -32,7 +33,7 @@ const ItemDetail = ({item}) => {
             <p className="descripcion">{item.descripcion}</p>
             <p className="categoria">Categoria:{(item.descripción)}</p>
             <p className="precio">${item.precio}</p>
-            <ItemCount cantidad = {cantidad} handleSumar = {handleSumar} handleRestar = {handleRestar}/>
+            <ItemCount cantidad = {cantidad} handleSumar = {handleSumar} handleRestar = {handleRestar} handleAgregar = {handleAgregar}/>
             
             </div>
 
