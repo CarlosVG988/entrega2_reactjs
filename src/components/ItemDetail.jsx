@@ -17,7 +17,7 @@ const ItemDetail = ({item}) => {
 
   }
   const handleAgregar = ()=>{
-    console.log({...item,cantidad});
+    console.log({...item,quantity:cantidad});
 
 
    }
