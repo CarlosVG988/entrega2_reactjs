@@ -16,6 +16,7 @@ const ItemListContainer = () => {
           setProductos(res.filter((prod) => prod.categoria === categoria));
         } else {
           setProductos(res);
+          setTitulo ("Productos")
         }
 
       })

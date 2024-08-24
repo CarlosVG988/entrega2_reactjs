@@ -11,6 +11,7 @@ const Navbar = () => {
             <li><Link className="menu-link" to="/productos/importados">Importaciones</Link></li>
             <li><Link className="menu-link" to="/productos/general_electronics">Electronica General</Link></li>
             <li><Link className="menu-link" to="/nosotros">Nosotros</Link></li>
+            
         </ul>
     </nav>
   )
