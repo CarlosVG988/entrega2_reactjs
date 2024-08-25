@@ -8,6 +8,7 @@ import Nosotros from "./components/Nosotros"
 import { useState } from "react"
 import { CartContext, CartProvider } from "./context/CartContext"
 import Carrito from "./components/Carrito"
+import Checkout from "./components/Checkout"
 
 
 
@@ -30,6 +31,7 @@ function App() {
             <Route path="/productos/:categoria" element={<ItemListContainer />} />
             <Route path="/nosotros" element={<Nosotros />} />
             <Route path="/carrito" element={<Carrito />} />
+            <Route path="/checkout" element={<Checkout />} />
           </Routes>
 
         </BrowserRouter>
