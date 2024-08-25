@@ -17,8 +17,7 @@ const Nosotros = () => {
 
   window.addEventListener("click",clickear)
 
-  
- 
+
     return () =>{
       window.removeEventListener("click",clickear)
 
@@ -26,10 +25,6 @@ const Nosotros = () => {
   
  }, [])
  
-
-
-  
-
   return (
     <div className="container">
       <h1 className="main-title">nosotros2</h1>
