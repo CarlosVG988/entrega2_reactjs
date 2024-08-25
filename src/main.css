@@ -1,5 +1,3 @@
-
-
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -70,7 +68,8 @@ body {
     height: auto;
 }
 
-.producto h4, .producto p {
+.producto h4,
+.producto p {
     margin: 0.5rem 0;
 }
 
@@ -101,28 +100,29 @@ body {
     border: 0;
     width: 2rem;
     height: 2rem;
-    color:white;
+    color: white;
     border-radius: .5rem;
-    cursor:pointer;
+    cursor: pointer;
     font-size: 1rem;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     line-height: 1;
     border: 2px solid white;
 
-    .item-count button:hover,agregar-al-carrito:hover{
+    .item-count button:hover,
+    agregar-al-carrito:hover {
 
         background-color: red;
-        color:white;
+        color: white;
 
     }
 
-    .agregar-al-carrito{
+    .agregar-al-carrito {
         width: auto;
         height: auto;
-        margin-top:1rem;
+        margin-top: 1rem;
         padding: 1rem;
     }
 
